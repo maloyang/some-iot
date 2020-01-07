@@ -10,4 +10,5 @@
   - [教學看這邊](freeboard/freeboard.io.ipynb)
   
 
+- [grafana](https://play.grafana.org/d/000000012/grafana-play-home?orgId=1): 另一個方便資料視覺化的網頁，晚點要來試試
 
